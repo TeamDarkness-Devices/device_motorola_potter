@@ -184,7 +184,6 @@
     <bool name="config_hotswapCapable">true</bool>
 
     <!-- Is the Battery LED intrusive? Used to decide if there should be a disable option -->
-    <bool name="config_intrusiveBatteryLed">true</bool>
 
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">true</bool>

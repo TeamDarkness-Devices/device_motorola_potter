@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository":  "boulzordev/android_kernel_motorola_msm8953",
+    "repository":  "manikchathli/android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
     "branch": "cm-14.1"
   },
   {
     "remote": "github",
-    "repository": "boulzordev/android_vendor_motorola_potter",
+    "repository": "manikchathli/android_vendor_motorola_potter",
     "target_path": "vendor/motorola/potter",
     "branch": "master"
   },
