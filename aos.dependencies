@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository":  "manikchathli/android_kernel_motorola_msm8953",
+    "repository":  "manikchathli/Destroyer-Kernel",
     "target_path": "kernel/motorola/msm8953",
-    "branch": "cm-14.1"
+    "branch": "wrecker-n"
   },
   {
     "remote": "github",
